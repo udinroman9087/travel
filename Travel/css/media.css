@@ -1,0 +1,7 @@
+@media screen and (max-width: 650px) {
+   header{
+      grid-template-columns: 1fr;
+      grid-template-rows: 60px repeat(2, auto);
+      row-gap: 20px;
+   }
+}
